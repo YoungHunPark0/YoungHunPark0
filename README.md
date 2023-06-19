@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
-<img src="https://img.shields.io/badge/Python-6DB33F?style=for-the-badge&logo=Python&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Python-6DB33F?style=for-the-badge&logo=Python&logoColor=white">
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
