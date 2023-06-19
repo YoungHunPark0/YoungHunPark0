@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   [![YoungHun's github stats](https://github-readme-stats.vercel.app/api?username=YoungHunPark0)](https://github.com/YoungHunPark0/github-readme-stats)
 </div>
 <div>
-	<img src="https://img.shields.io/badge/C#-007396?style=for-the-badge&logo=C#&logoColor=white">
+	<img src="https://img.shields.io/badge/Cshap-007396?style=for-the-badge&logo=Cshap&logoColor=white">
 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 
