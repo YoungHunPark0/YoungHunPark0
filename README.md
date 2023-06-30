@@ -1,12 +1,7 @@
 ### YoungHun GitHub 👋
 
-<!--
-**YoungHunPark0/YoungHunPark0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 부경대학교 윈도우 플랫폼기반 IoT시스템 개발자 (Python, C#, .NET, WPF, HTML, MySQL) 교육과정 (2023.01.31 ~ 2023.09.01)
+<--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -38,16 +33,13 @@ Here are some ideas to get you started:
 ## miniprojects
 개인프로젝트
 
-## C# 
-[C#](https://github.com/YoungHunPark0/basic-CSharp-2023)
-
-## WPF
+## [C#] WPF OpenApi를 활용한 부산마을버스 현황앱 개발 (OpenAPI, MySQL)
 [WPF](https://github.com/YoungHunPark0/pknu-wpf-2023)
 
-## ASP.NET
+## [C#] ASP.NET Bootstrap, MVC를 활용한 웹페이지 개발 (HTML5, CSS3, javascript, MVVC)
 [ASP.NET](https://github.com/YoungHunPark0/pknu_aspnet_2023)
 
-## Python
-[Python](https://github.com/YoungHunPark0/basic-CSharp-2023)
+## Python을 활용한 App개발(PyQt5, Qt Designer, OpenAPI)
+[Python](https://github.com/YoungHunPark0/studyPython2023)
 
 
