@@ -1,14 +1,9 @@
 ### YoungHun GitHub 👋
 
 - 🌱 부경대학교 윈도우 플랫폼기반 IoT시스템 개발자 (Python, C#, .NET, WPF, HTML, MySQL) 교육과정 (2023.01.31 ~ 2023.09.01)
-<--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 ERP 개발 및 유지보수, C# 개발 
+- ⚡ 취준생
+  
 <div align=center>
 	
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
@@ -33,13 +28,13 @@
 ## miniprojects
 개인프로젝트
 
-## [C#] WPF OpenApi를 활용한 부산마을버스 현황앱 개발 (OpenAPI, MySQL)
-[WPF](https://github.com/YoungHunPark0/pknu-wpf-2023)
+## WPF
+[[C#] WPF OpenApi를 활용한 부산마을버스 현황앱 개발 (OpenAPI, MySQL)](https://github.com/YoungHunPark0/pknu-wpf-2023)
 
-## [C#] ASP.NET Bootstrap, MVC를 활용한 웹페이지 개발 (HTML5, CSS3, javascript, MVVC)
-[ASP.NET](https://github.com/YoungHunPark0/pknu_aspnet_2023)
+## ASP.NET
+[[C#] ASP.NET Bootstrap, MVC를 활용한 웹페이지 개발 (HTML5, CSS3, javascript, MVVC)](https://github.com/YoungHunPark0/pknu_aspnet_2023)
 
-## Python을 활용한 App개발(PyQt5, Qt Designer, OpenAPI)
-[Python](https://github.com/YoungHunPark0/studyPython2023)
+## Python
+[Python을 활용한 App개발(PyQt5, Qt Designer, OpenAPI)](https://github.com/YoungHunPark0/studyPython2023)
 
 
