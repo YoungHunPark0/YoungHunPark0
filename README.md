@@ -29,10 +29,10 @@
 개인프로젝트
 
 ## WPF
-[[C#] WPF OpenApi를 활용한 부산마을버스 현황앱 개발 (OpenAPI, MySQL)](https://github.com/YoungHunPark0/pknu-wpf-2023)
+[C#을 활용한 WPF OpenApi를 활용한 부산마을버스 현황앱 개발 (OpenAPI, MySQL)](https://github.com/YoungHunPark0/pknu-wpf-2023)
 
 ## ASP.NET
-[[C#] ASP.NET Bootstrap, MVC를 활용한 웹페이지 개발 (HTML5, CSS3, javascript, MVVC)](https://github.com/YoungHunPark0/pknu_aspnet_2023)
+[C#을 활용한 ASP.NET. Bootstrap, MVC를 활용한 웹페이지 개발 (HTML5, CSS3, javascript, MVVC)](https://github.com/YoungHunPark0/pknu_aspnet_2023)
 
 ## Python
 [Python을 활용한 App개발(PyQt5, Qt Designer, OpenAPI)](https://github.com/YoungHunPark0/studyPython2023)
