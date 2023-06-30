@@ -39,12 +39,15 @@ Here are some ideas to get you started:
 개인프로젝트
 
 ## C# 
-[미니프로젝트 Part1](https://github.com/YoungHunPark0/basic-CSharp-2023)
+[C#](https://github.com/YoungHunPark0/basic-CSharp-2023)
 
 ## WPF
-[미니프로젝트 Part2](https://github.com/YoungHunPark0/pknu-wpf-2023)
+[WPF](https://github.com/YoungHunPark0/pknu-wpf-2023)
 
 ## ASP.NET
-[미니프로젝트 Part2](https://github.com/YoungHunPark0/pknu-aspnet-2023)
+[ASP.NET](https://github.com/YoungHunPark0/pknu_aspnet_2023)
+
+## Python
+[Python](https://github.com/YoungHunPark0/basic-CSharp-2023)
 
 
