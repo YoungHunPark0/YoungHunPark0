@@ -1,9 +1,8 @@
 ### YoungHun GitHub 👋
 
 - 🌱 부경대학교 윈도우 플랫폼기반 IoT시스템 개발자 (Python, C#, .NET, WPF, HTML, MySQL) 교육과정 (2023.01.31 ~ 2023.09.01)
-- 😄 ERP 개발 및 유지보수, C# 개발 
-- ⚡ 취준생
 - ⚡ 주차 및 재해 방재 디지털트윈 시스템 프로젝트 진행중
+- 😄 관심분야 : ERP 개발 및 유지보수, C# 개발 
   
 <div align=center>
 	
