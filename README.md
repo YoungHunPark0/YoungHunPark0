@@ -14,10 +14,6 @@
 	<h1>Technology Stack</h1>
 <img src="https://img.shields.io/badge/Cshap-007396?style=for-the-badge&logo=Cshap&logoColor=white">
 
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-
-<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-
 <img src="https://img.shields.io/badge/Python-6DB33F?style=for-the-badge&logo=Python&logoColor=white">
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
